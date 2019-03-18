@@ -16,5 +16,4 @@ export default class WebComponentLifeCycle extends LightningElement {
     renderedCallback(){
         console.info('----------renderedCallback--------');
 
-    }
 }

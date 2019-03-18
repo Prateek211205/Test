@@ -1,0 +1,150 @@
+[
+    [
+        "/Users/prateek/Desktop/webComponent/Tutorial/force-app",
+        {
+            "sourcePath": "/Users/prateek/Desktop/webComponent/Tutorial/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1552644303503,
+            "changeTime": 1552644303503,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main",
+        {
+            "sourcePath": "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1552644303503,
+            "changeTime": 1552644303503,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default",
+        {
+            "sourcePath": "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1552644303504,
+            "changeTime": 1552644303504,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1552644303504,
+            "changeTime": 1552644303504,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1552644489408,
+            "changeTime": 1552644489408,
+            "contentHash": "072b710687af0bb22db8810d5ba5a468d1c4f63b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default/lwc/webComponentLifeCycle",
+        {
+            "sourcePath": "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default/lwc/webComponentLifeCycle",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1552644489411,
+            "changeTime": 1552644489411,
+            "contentHash": "d5652a4aead44d9edaa112d27ffaad93b137c246",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default/lwc/webComponentLifeCycle/webComponentLifeCycle.html",
+        {
+            "sourcePath": "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default/lwc/webComponentLifeCycle/webComponentLifeCycle.html",
+            "isDirectory": false,
+            "size": 60,
+            "modifiedTime": 1552644585071,
+            "changeTime": 1552644585071,
+            "contentHash": "3ca8aff025579d94b815dc9439ff5b0e9008febd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default/lwc/webComponentLifeCycle/webComponentLifeCycle.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default/lwc/webComponentLifeCycle/webComponentLifeCycle.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 537,
+            "modifiedTime": 1552648727317,
+            "changeTime": 1552648727317,
+            "isWorkspace": false,
+            "contentHash": "db1087c051e3f7ec69d1e45328201f5b48abb5bb"
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default/lwc/webComponentLifeCycle/webComponentLifeCycle.js-meta.xml",
+        {
+            "sourcePath": "/Users/prateek/Desktop/webComponent/Tutorial/force-app/main/default/lwc/webComponentLifeCycle/webComponentLifeCycle.js-meta.xml",
+            "isDirectory": false,
+            "size": 311,
+            "modifiedTime": 1552648034749,
+            "changeTime": 1552648034749,
+            "contentHash": "615bba27250e40bb3be2c93cdc2a8a81254beb84",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/prateek/Desktop/webComponent/Tutorial",
+        {
+            "sourcePath": "/Users/prateek/Desktop/webComponent/Tutorial",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1552644350795,
+            "changeTime": 1552644350795,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
